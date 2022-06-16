@@ -4,6 +4,13 @@ This is a plugin to control Govee lights. ! It's specialized and doesn't use the
 
 But no, for real, I built this because the Govee API doesn't support one of my lights. I'm sharing this here because I didn't find any other solution like this.
 
+## Tested devices
+
+- H6154
+- H6159
+
+These are the only two devices I have. Feel free to test any other lights with this plugin.
+
 ## Installation
 
 There's no npm package yet, so download the repository and run the following commands on the server where Homebridge is installed.
